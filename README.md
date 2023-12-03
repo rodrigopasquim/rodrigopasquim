@@ -1,16 +1,35 @@
-### Hi there 👋
+<p align="left"> 
+  Hi, welcome! my name is <strong>Rodrigo Pasquim</strong>
+  <!--<img src="https://komarev.com/ghpvc/?username=rodrigopasquim&color=605de0&style=flat-square&label=Views" align="center" alt="Views">-->
+  
+<br>
+
+<img src="https://cdn.discordapp.com/attachments/912027012770697296/1180728944564117604/rainbow.gif?ex=657e7a85&is=656c0585&hm=bf844e62f23cd6b58d1371db6d39f7402257a2e3deb65307d2518a54608d3c35&" width="100%" align="right" >
+
+<br>
+
+  
+
+ > Sou estudante de tecnologia e estou em busca da minha primeira oportunidade de trabalho na área de TI, para colocar em prática todos meus conhecimentos, aprender e crescer com a empresa.
+</p>
+
 
 <!--
-**rodrigopasquim/rodrigopasquim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+   <div>  
+       <a href="https://github.com/rodrigopasquim">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?
+       username=rodrigopasquim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+   </div>
 -->
+
+<br>
+
+**Programming Tools**
+  
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724691779666/HTML.png">
+  <img align="center" alt="CSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724020703352/CSS.png">
+  <img align="center" alt="Js" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096531643520524419/JAVASCRIPT.png">
+  <img align="center" alt="PS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528725065093270/PHOTOSHOP.png">
+  <img align="center" alt="VSCODE" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528725320937523/VSCODE.png">
+</div>
