@@ -10,7 +10,7 @@
 
   
 
- > Sou estudante de tecnologia e estou em busca da minha primeira oportunidade de trabalho na área de TI, para colocar em prática todos meus conhecimentos, aprender e crescer com a empresa.
+ > Olá, me chamo Rodrigo, sou estudante de tecnologia e estou em busca da minha primeira oportunidade de trabalho na área de TI, para colocar em prática todos meus conhecimentos, aprender e crescer com a empresa. Trabalhei em alguns lugares por fora da área porém em todos eu me dediquei, aprendi, e deixei um pouco de mim.
 </p>
 
 
