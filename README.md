@@ -15,8 +15,8 @@
 
 <div>
   <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigopasquim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopasquim&layout=compact&langs_count=16&theme=buefy"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigopasquim&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopasquim&layout=compact&langs_count=16&theme=graywhite"/>
 </div>
 
 <br>
