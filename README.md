@@ -16,7 +16,7 @@
 <div>
   <a href="[https://github.com/rodrigopasquim](https://github.com/rodrigopasquim)"> 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigopasquim&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopasquim&hide_progress=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=graywhitet"/>
 </div>
 
 <br>
