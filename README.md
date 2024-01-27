@@ -8,6 +8,11 @@
 
 <br>
 
+<div>
+  <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigopasquim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopasquim&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
   
 
  > Sou estudante de tecnologia, e estou em busca da minha primeira oportunidade de trabalho na área de TI, para colocar em prática todos meus conhecimentos, aprender e crescer com a empresa. Trabalhei em alguns lugares por fora da área, e em todos eu me dediquei, aprendi, e deixei um pouco de mim.
