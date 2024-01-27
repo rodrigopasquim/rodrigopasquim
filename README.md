@@ -10,8 +10,8 @@
 
 <div>
   <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigopasquim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopasquim&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=rodrigopasquim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopasquim&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
 
