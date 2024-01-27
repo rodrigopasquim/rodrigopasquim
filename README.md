@@ -19,7 +19,7 @@
 
 <br>
 
-**Programming Tools**
+**Technology Stack**
   
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724691779666/HTML.png">
