@@ -32,5 +32,5 @@
 
 <br>
   <a href="https://github.com/tauz-hub/rodrigopasquim.git"><img alt="Rodrigo Github Stats" height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigopasquim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tauz-hub/rodrigopasquim.git"><img alt="Rodrigo Top Languages" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauz-hub&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tauz-hub/rodrigopasquim.git"><img alt="Rodrigo Top Languages" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopasquim&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
