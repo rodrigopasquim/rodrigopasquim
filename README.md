@@ -23,7 +23,7 @@
   
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724691779666/HTML.png">
-  <img align="center" alt="CSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724020703352/CSS.png">
+  <img align="center" alt="CSS" height="35" width="35" src="https://imgur.com/qLQ63ce">
   <img align="center" alt="Js" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096531643520524419/JAVASCRIPT.png">
   <img align="center" alt="PS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528725065093270/PHOTOSHOP.png">
   <img align="center" alt="VSCODE" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528725320937523/VSCODE.png">
