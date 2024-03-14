@@ -25,6 +25,7 @@
   <img align="center" alt="HTML" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724691779666/HTML.png?ex=65fde674&is=65eb7174&hm=bc01a582b8ed8a5804e855ff9a10d4a319ce3fb1d7b4f08c7c5015f4a3623a93&">
   <img align="center" alt="CSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096531643520524419/JAVASCRIPT.png?ex=65fde92c&is=65eb742c&hm=9f4c92971b177037da7f33159dee5fe47477165bbf5471637f99fbd07b2cd404&">
   <img align="center" alt="Js" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724020703352/CSS.png?ex=65fde674&is=65eb7174&hm=17bf9d373e9b4db489910561e283b85fbb41a1a00717aa7878356cf9e059fd56&">
+  <img align="center" alt="Js" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217798765931663430/PHP.png?ex=6605567b&is=65f2e17b&hm=3f00ee55db5dee7746a50565cff573a089c3fb1ad5281e1500b2753292409adb&">
   <img align="center" alt="PS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528725065093270/PHOTOSHOP.png?ex=65fde674&is=65eb7174&hm=8b658e6c75ec3bad87ed50831144d1ae68a96f9f2821ea6a7aa1b3ee0d6951e2&">
   <img align="center" alt="VSCODE" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528725320937523/VSCODE.png?ex=65fde674&is=65eb7174&hm=2fbac597669d35f6bf422ba91f227660a99f7e97275df4b19adb1d8df94db2d2&">
 </div>
