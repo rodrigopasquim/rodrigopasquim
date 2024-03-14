@@ -22,17 +22,17 @@
 **Technology Stack**
   
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724691779666/HTML.png?ex=65fde674&is=65eb7174&hm=bc01a582b8ed8a5804e855ff9a10d4a319ce3fb1d7b4f08c7c5015f4a3623a93&">
-  <img align="center" alt="CSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096531643520524419/JAVASCRIPT.png?ex=65fde92c&is=65eb742c&hm=9f4c92971b177037da7f33159dee5fe47477165bbf5471637f99fbd07b2cd404&">
   <img align="center" alt="Js" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724020703352/CSS.png?ex=65fde674&is=65eb7174&hm=17bf9d373e9b4db489910561e283b85fbb41a1a00717aa7878356cf9e059fd56&">
-  <img align="center" alt="PHP" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805990196547604/PHP.png?ex=66055d35&is=65f2e835&hm=2110e81fbb15bdc7d904087395b124f3dff2813dbc614a41724bf4f53221d04a&">
-  <img align="center" alt="MySql" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805989663735909/mysql.png?ex=66055d35&is=65f2e835&hm=6cd3d3ccf7bb73d4df84dcf0f0dd0f8ac79822c0d3bc1bc3493a384c58f6f226&">
+  <img align="center" alt="HTML" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724691779666/HTML.png?ex=65fde674&is=65eb7174&hm=bc01a582b8ed8a5804e855ff9a10d4a319ce3fb1d7b4f08c7c5015f4a3623a93&">
   <img align="center" alt="GIT" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805988636131398/GIT.png?ex=66055d35&is=65f2e835&hm=7bf2264bb54a21c0e2f90919e223fea48d7a5734a876f6a2e90ece497fe0e36e&">
-  <img align="center" alt="TailwindCSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805990854918215/tailwindcss.png?ex=66055d35&is=65f2e835&hm=4fe821861e0534ab66a7c7a237326b03aee12ebbdfe902dbd6dc20a7ebe5c2fe&">
   <img align="center" alt="Figma" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217802160159330334/figma.png?ex=660559a4&is=65f2e4a4&hm=da840b8650bae65be2d626514d269c21e610e871dec92ec7f80c90d3c39e5aba&">
-  <img align="center" alt="Bootstrap" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805987654799453/bootstrap.png?ex=66055d35&is=65f2e835&hm=cf4bed291c471afd093d0edab6413392de193f57bbb2d4e1809fd58f170f400f&">
-  <img align="center" alt="PS" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217807695202095194/photoshop.png?ex=66055ecc&is=65f2e9cc&hm=8724aa8dd269268bc9d4c6825cfd20dc58358737a12aafbf24cf439c70577827&">
+  <img align="center" alt="MySql" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805989663735909/mysql.png?ex=66055d35&is=65f2e835&hm=6cd3d3ccf7bb73d4df84dcf0f0dd0f8ac79822c0d3bc1bc3493a384c58f6f226&">
+  <img align="center" alt="TailwindCSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805990854918215/tailwindcss.png?ex=66055d35&is=65f2e835&hm=4fe821861e0534ab66a7c7a237326b03aee12ebbdfe902dbd6dc20a7ebe5c2fe&">
+  <img align="center" alt="PHP" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805990196547604/PHP.png?ex=66055d35&is=65f2e835&hm=2110e81fbb15bdc7d904087395b124f3dff2813dbc614a41724bf4f53221d04a&">
   <img align="center" alt="VSCODE" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528725320937523/VSCODE.png?ex=65fde674&is=65eb7174&hm=2fbac597669d35f6bf422ba91f227660a99f7e97275df4b19adb1d8df94db2d2&">
+  <img align="center" alt="PS" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217807695202095194/photoshop.png?ex=66055ecc&is=65f2e9cc&hm=8724aa8dd269268bc9d4c6825cfd20dc58358737a12aafbf24cf439c70577827&">
+  <img align="center" alt="CSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096531643520524419/JAVASCRIPT.png?ex=65fde92c&is=65eb742c&hm=9f4c92971b177037da7f33159dee5fe47477165bbf5471637f99fbd07b2cd404&">
+  <img align="center" alt="Bootstrap" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805987654799453/bootstrap.png?ex=66055d35&is=65f2e835&hm=cf4bed291c471afd093d0edab6413392de193f57bbb2d4e1809fd58f170f400f&">
 </div>
 
 
