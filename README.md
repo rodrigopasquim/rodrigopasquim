@@ -11,11 +11,11 @@
  > Sou estudante de tecnologia, e estou em busca da minha primeira oportunidade de trabalho na área de TI, para colocar em prática todos meus conhecimentos, aprender e crescer com a empresa. Trabalhei em alguns lugares por fora da área, e em todos eu me dediquei, aprendi, e deixei um pouco de mim.
 </p>
 
-<!--<div>
+<div>
   <a href="[https://github.com/rodrigopasquim](https://github.com/rodrigopasquim)"> 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rodrigopasquim&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=default"/>
-</div>-->
+</div>
 
 <br>
 
