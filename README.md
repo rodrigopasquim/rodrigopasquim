@@ -4,7 +4,7 @@
   
 <br>
 
-<img src="https://drive.google.com/file/d/1d1tM2hBLf4KIiM3HVdS3yj7clfAD8KOK/view?usp=sharing" width="100%" align="right" >
+<img src="https://cdn.discordapp.com/attachments/912027012770697296/1180728944564117604/rainbow.gif?ex=65ffad85&is=65ed3885&hm=079074eae2807431dd5bd7e14c019933ce45373cda59e8c17f16b38c8fe73edc&" width="100%" align="right" >
 
 
 
