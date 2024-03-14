@@ -26,10 +26,11 @@
   <img align="center" alt="CSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096531643520524419/JAVASCRIPT.png?ex=65fde92c&is=65eb742c&hm=9f4c92971b177037da7f33159dee5fe47477165bbf5471637f99fbd07b2cd404&">
   <img align="center" alt="Js" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724020703352/CSS.png?ex=65fde674&is=65eb7174&hm=17bf9d373e9b4db489910561e283b85fbb41a1a00717aa7878356cf9e059fd56&">
   <img align="center" alt="PHP" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217798765931663430/PHP.png?ex=6605567b&is=65f2e17b&hm=3f00ee55db5dee7746a50565cff573a089c3fb1ad5281e1500b2753292409adb&">
-  <img align="center" alt="GIT" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217799595657269308/GIT.png?ex=66055741&is=65f2e241&hm=9c6b4c3acb0e080a81a7309148158e7b0fff29643982d546ce467f1f267c25f2&">
   <img align="center" alt="MySql" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217800449264975972/mysql.png?ex=6605580c&is=65f2e30c&hm=8c20cb64686b4c8200eca4eac65edf0626446f81480bf369c791794451ba5c36&">
+  <img align="center" alt="GIT" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217799595657269308/GIT.png?ex=66055741&is=65f2e241&hm=9c6b4c3acb0e080a81a7309148158e7b0fff29643982d546ce467f1f267c25f2&">
   <img align="center" alt="TailwindCSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217800997293002762/tailwindcss.png?ex=6605588f&is=65f2e38f&hm=aff548800e7827a8e9e634445786f797956a048d13dc627b47652ab5c71769fa&">
-  
+  <img align="center" alt="Figma" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217802160159330334/figma.png?ex=660559a4&is=65f2e4a4&hm=da840b8650bae65be2d626514d269c21e610e871dec92ec7f80c90d3c39e5aba&">
+  <img align="center" alt="Bootstrap" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217804083184930816/bootstrap.png?ex=66055b6f&is=65f2e66f&hm=69952495f393d6a65077bbc6eabd86447ce6b132b94f79745f3d56ca734c6e4a&">
   <img align="center" alt="PS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528725065093270/PHOTOSHOP.png?ex=65fde674&is=65eb7174&hm=8b658e6c75ec3bad87ed50831144d1ae68a96f9f2821ea6a7aa1b3ee0d6951e2&">
   <img align="center" alt="VSCODE" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528725320937523/VSCODE.png?ex=65fde674&is=65eb7174&hm=2fbac597669d35f6bf422ba91f227660a99f7e97275df4b19adb1d8df94db2d2&">
 </div>
