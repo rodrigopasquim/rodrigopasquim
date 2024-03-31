@@ -29,9 +29,9 @@
   <img align="center" alt="MySql" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805989663735909/mysql.png?ex=66055d35&is=65f2e835&hm=6cd3d3ccf7bb73d4df84dcf0f0dd0f8ac79822c0d3bc1bc3493a384c58f6f226&">
   <img align="center" alt="TailwindCSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805990854918215/tailwindcss.png?ex=6617d235&is=66055d35&hm=0e0449a35cfa3551acdd0e5b47f4a1b440fc75cf5a8c805056e6018e751bf9ca&">
   <img align="center" alt="PHP" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805990196547604/PHP.png?ex=66055d35&is=65f2e835&hm=2110e81fbb15bdc7d904087395b124f3dff2813dbc614a41724bf4f53221d04a&">
-  <img align="center" alt="VSCODE" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528725320937523/VSCODE.png?ex=65fde674&is=65eb7174&hm=2fbac597669d35f6bf422ba91f227660a99f7e97275df4b19adb1d8df94db2d2&">
-  <img align="center" alt="PS" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217807695202095194/photoshop.png?ex=66055ecc&is=65f2e9cc&hm=8724aa8dd269268bc9d4c6825cfd20dc58358737a12aafbf24cf439c70577827&">
-  <img align="center" alt="CSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724020703352/CSS.png?ex=65fde674&is=65eb7174&hm=17bf9d373e9b4db489910561e283b85fbb41a1a00717aa7878356cf9e059fd56&">
+  <img align="center" alt="VSCODE" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1223834328367108136/VSCODE.png?ex=661b4b89&is=6608d689&hm=c7becccbf8ae027576c881dce3dd700886e3cb11ba57d5d57f93994cdcfcc66a&">
+  <img align="center" alt="PS" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217807695202095194/photoshop.png?ex=6617d3cc&is=66055ecc&hm=b56e80326c9a621d60cf99c83ab12f50675acddbc3648cb8318611e42b773f10&">
+  <img align="center" alt="CSS" height="35" width="35" src="https://cdn.discordapp.com/attachments/820831992609243136/1096528724020703352/CSS.png?ex=661995f4&is=660720f4&hm=7d849b5e848b89cc556daccff569538d081666ecf6237aa4028f27515c83423e&">
   <img align="center" alt="Bootstrap" height="35" width="35" src="https://cdn.discordapp.com/attachments/912027012770697296/1217805987654799453/bootstrap.png?ex=66055d35&is=65f2e835&hm=cf4bed291c471afd093d0edab6413392de193f57bbb2d4e1809fd58f170f400f&">
 </div>
 
