@@ -19,17 +19,17 @@
 **Technology Stack**
   
 <div style="display: inline_block">
-  <img align="center" alt="JS" height="35" width="35" src="https://imgur.com/a/pgJqKZ7">
-  <img align="center" alt="HTML" height="35" width="35" src="https://i.imgur.com/AOIskRv.png">
-  <img align="center" alt="GIT" height="35" width="35" src="https://i.imgur.com/B93L2cK.png">
-  <img align="center" alt="Figma" height="35" width="35" src="https://i.imgur.com/cQdjCxT.png">
-  <img align="center" alt="MySql" height="35" width="35" src="https://i.imgur.com/BpinGtv.png">
-  <img align="center" alt="TailwindCSS" height="35" width="35" src="https://i.imgur.com/Dy134Wf.png">
-  <img align="center" alt="PHP" height="35" width="35" src="https://i.imgur.com/sLjc30v.png">
-  <img align="center" alt="VSCODE" height="35" width="35" src="https://i.imgur.com/fPoLfS4.png">
-  <img align="center" alt="PS" height="35" width="35" src="https://i.imgur.com/fhU9yEj.png">
-  <img align="center" alt="CSS" height="35" width="35" src="https://i.imgur.com/yKcntZG.png">
-  <img align="center" alt="Bootstrap" height="35" width="35" src="https://i.imgur.com/mbxTNzj.png">
+  <img align="center" alt="JS" height="35" width="35" src="https://i.imgur.com/J9W4hjN.png">
+  <img align="center" alt="HTML" height="35" width="35" src="https://i.imgur.com/oG3yV7y.png">
+  <img align="center" alt="GIT" height="35" width="35" src="https://i.imgur.com/R7cpUlm.png">
+  <img align="center" alt="Figma" height="35" width="35" src="https://i.imgur.com/pyd0T9K.png">
+  <img align="center" alt="MySql" height="35" width="35" src="https://i.imgur.com/qOY8ZtU.png">
+  <img align="center" alt="TailwindCSS" height="35" width="35" src="https://i.imgur.com/z7jFq4Q.png">
+  <img align="center" alt="PHP" height="35" width="35" src="https://i.imgur.com/dNUCzmW.png">
+  <img align="center" alt="VSCODE" height="35" width="35" src="https://i.imgur.com/Djj1KLQ.png">
+  <img align="center" alt="PS" height="35" width="35" src="https://i.imgur.com/pCk4Ybu.png">
+  <img align="center" alt="CSS" height="35" width="35" src="https://i.imgur.com/y4w0dfu.png">
+  <img align="center" alt="Bootstrap" height="35" width="35" src="https://i.imgur.com/DgZbuou.png">
 </div>
 
 
