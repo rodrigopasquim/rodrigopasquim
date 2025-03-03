@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/otEzYJA.gif" width="100%" align="right" >
 
 
- > Sou estudante de tecnologia, e estou em busca da minha primeira oportunidade de trabalho na área de TI, para colocar em prática todos meus conhecimentos, aprender e crescer com a empresa. Trabalhei em alguns lugares por fora da área, e em todos eu me dediquei, aprendi, e deixei um pouco de mim.
+ > Sou um programador autodidata e atualmente estou desenvolvendo meu projeto pessoal, o Koiso. Minha meta é me tornar um programador fullstack, embora ainda tenha um longo caminho de aprendizado e experiências até alcançar esse objetivo. Tenho conhecimento em design e sou familiarizado com ferramentas como Figma e Photoshop. Além disso, estou disponível para projetos e oportunidades no mercado de trabalho.
 </p>
 
 
