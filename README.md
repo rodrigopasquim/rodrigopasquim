@@ -4,7 +4,7 @@
   
 <br>
 
-<img src="https://imgur.com/a/gmYg7fi](https://imgur.com/otEzYJA" width="100%" align="right" >
+<img src="https://i.imgur.com/otEzYJA.gif" width="100%" align="right" >
 [img]https://i.imgur.com/otEzYJA.gif[/img]
 
 
