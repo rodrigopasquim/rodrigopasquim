@@ -4,8 +4,8 @@
   
 <br>
 
-<img src="[https://imgur.com/a/gmYg7fi](https://imgur.com/otEzYJA)" width="100%" align="right" >
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/gmYg7fi"><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/gmYg7fi](https://imgur.com/otEzYJA" width="100%" align="right" >
+[img]https://i.imgur.com/otEzYJA.gif[/img]
 
 
  > Sou estudante de tecnologia, e estou em busca da minha primeira oportunidade de trabalho na área de TI, para colocar em prática todos meus conhecimentos, aprender e crescer com a empresa. Trabalhei em alguns lugares por fora da área, e em todos eu me dediquei, aprendi, e deixei um pouco de mim.
