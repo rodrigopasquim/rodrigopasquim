@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/otEzYJA.gif" width="100%" align="right" >
 
 
- > Sou um programador autodidata e atualmente estou desenvolvendo meu projeto pessoal, o Koiso. Minha meta é me tornar um programador fullstack, embora ainda tenha um longo caminho de aprendizado e experiências até alcançar esse objetivo. Tenho conhecimento em design e sou familiarizado com ferramentas como Figma e Photoshop. Além disso, estou disponível para projetos e oportunidades no mercado de trabalho.
+ > Programador autodidata, tenho conhecimento em design e sou familiarizado com ferramentas como Figma e Photoshop. Atualmente estou desenvolvendo meus projetos. Minha meta é me tornar um programador fullstack, embora ainda tenha um longo caminho de aprendizado e experiências até alcançar esse objetivo. Além disso, estou disponível para projetos e oportunidades no mercado de trabalho.
 </p>
 
 
