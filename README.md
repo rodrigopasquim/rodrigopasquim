@@ -10,8 +10,8 @@
 
 
  > Sou técnico de TI com anos de experiência prestando suporte para pequenas empresas e usuários domésticos, atuando tanto como freelancer quanto atualmente em uma empresa da área. Sempre fui muito curioso e autodidata, e essa vontade de aprender me levou a explorar o universo da programação.
-
-Hoje, estou em transição para a área de desenvolvimento, com foco em front-end. Tenho estudado por conta própria, desenvolvendo meus próprios projetos e aprofundando meus conhecimentos em HTML, CSS, JavaScript e ferramentas como React. Como venho do suporte técnico, trago comigo uma base sólida de lógica, resolução de problemas e experiência direta com usuários — o que me ajuda muito na hora de pensar a usabilidade e acessibilidade das interfaces.
+> 
+> Hoje, estou em transição para a área de desenvolvimento, com foco em front-end. Tenho estudado por conta própria, desenvolvendo meus próprios projetos e aprofundando meus conhecimentos em HTML, CSS, JavaScript e ferramentas como React. Como venho do suporte técnico, trago comigo uma base sólida de lógica, resolução de problemas e experiência direta com usuários — o que me ajuda muito na hora de pensar a usabilidade e acessibilidade das interfaces.
 </p>
 
 
